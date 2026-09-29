@@ -57,7 +57,7 @@
 - ✂️ **Agendamento para Barbearia** — React, TypeScript e Tailwind CSS
 - 🏢 **Impactus Multi-Services** — site institucional feito com Tailwind
 - 👤 **Sistema de Cadastro de Usuários** — back-end em Python e SQL
-- 💍 **Enlace Casamentos** — plataforma de casamentos com área para casais e fornecedores
+- 💍 **Elace Casamentos** — plataforma de casamentos com área para casais e fornecedores
 
 ---
 
