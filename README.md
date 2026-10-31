@@ -102,10 +102,3 @@ I believe in continuous learning, clean code, and innovation as essential founda
 - **Student**, Brigham Young University
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felizardolmatola&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felizardolmatola&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170">
-</p>
