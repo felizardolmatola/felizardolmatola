@@ -170,5 +170,5 @@
 </p>
 
 <p align="center" style="margin: 8px 4px;">
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="felizardolmatola" />
+    <img src="./assets/night-banner.jpg" alt="felizardolmatola" />
 </p>
