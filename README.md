@@ -31,12 +31,6 @@
     <img src="./assets/dev-working_rounded.gif" alt="working developer">
 </p>
 
-<p align="center" style="margin: 16px 4px 8px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=felizardolmatola&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile trophies" />
-    </a>
-</p>
-
 <p align="center" style="margin: 16px 4px 16px;">
     <a href="https://github.com/felizardolmatola" target="blank">
         <img src="https://img.shields.io/github/followers/felizardolmatola?logo=github&style=for-the-badge" alt="github followers" />
