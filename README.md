@@ -147,28 +147,6 @@
     <b>Student</b>, Brigham Young University
 </p>
 
-<h3 align="center" style="margin: 32px 4px 8px; font-size: 24px;">
-    Stats
-</h3>
-
-<p align="center" style="margin: 8px 4px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felizardolmatola&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="felizardolmatola top languages" />
-</p>
-
-<p align="center" style="margin: 8px 4px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=felizardolmatola&show_icons=true&locale=en&theme=gruvbox" alt="felizardolmatola github stats" />
-</p>
-
-<p align="center" style="margin: 8px 4px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felizardolmatola&theme=gruvbox" alt="felizardolmatola streak stats" />
-</p>
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-
-<p align="center" style="margin: 8px 4px;">
-    <img src="https://github.com/felizardolmatola/felizardolmatola/blob/output/github-contribution-grid-snake-dark.svg" alt="felizardolmatola stats snake" />
-</p>
-
 <p align="center" style="margin: 8px 4px;">
     <img src="./assets/night-banner.jpg" alt="felizardolmatola" />
 </p>
